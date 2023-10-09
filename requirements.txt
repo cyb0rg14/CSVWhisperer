@@ -1,0 +1,5 @@
+langchain==0.0.311
+pandas==1.5.3
+pygwalker==0.3.7
+streamlit==1.27.2
+streamlit_option_menu==0.3.6
